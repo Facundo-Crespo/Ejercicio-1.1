@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Facundo Ejercicio 1.1/1.0.0": {
+        "runtime": {
+          "Facundo Ejercicio 1.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facundo Ejercicio 1.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
